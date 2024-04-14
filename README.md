@@ -6,4 +6,4 @@
 - 🤓 I love learning new stuff
 - 📚 💻 ✈️ 🎵 🐱 I like a lot of cool and interesting things
 
-[![Linkedin: Matteo Incicco](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matteo-incicco-7aab6048/)](https://www.linkedin.com/in/matteo-incicco-7aab6048/)
+[![Linkedin: Matteo Incicco](https://img.shields.io/badge/-matteoincicco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/matteo-incicco-7aab6048/)](https://www.linkedin.com/in/matteo-incicco-7aab6048/)
