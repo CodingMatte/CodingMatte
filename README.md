@@ -2,7 +2,7 @@
 
 #### I'm a Data Engineer working remotely.
 
-- 👷 I'm currently working as a Senior Data Engineer at [Subito](https://www.subito.it/)/[Adevinta](https://adevinta.com/)
+- 👷 I'm currently working as a Senior Data Engineer at [Twilio](https://www.twilio.com/en-us)
 - 🤓 I love learning new stuff
 - 📚 💻 ✈️ 🎵 🐱 I like a lot of cool and interesting things
 
